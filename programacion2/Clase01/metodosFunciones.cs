@@ -16,7 +16,17 @@ namespace programacion2.Clase01
 
         public static double Suma (double a , double b)
         {
-            return a + b;
+
+            if (a > b)
+            {
+                Console.WriteLine("El 1er nro es mayor" + a);
+                Console.WriteLine("La suma es ");
+                return a + b;
+            }
+            else
+            {
+                return a + b;
+            }
         }
 
         public static double Resta(double a, double b)

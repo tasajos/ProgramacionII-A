@@ -50,6 +50,11 @@ namespace programacion2
              */
             static  double sumar(double a , double b)
             {
+                if (a > b)
+                {
+                    Console.WriteLine("El primer numero es mayor");
+                    return (a + b);
+                }else
                 return (a + b);
             }
 
