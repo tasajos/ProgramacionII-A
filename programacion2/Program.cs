@@ -1,4 +1,6 @@
-﻿namespace programacion2
+﻿using programacion2.Clase01;
+
+namespace programacion2
 {
     internal class Program
     {
@@ -12,7 +14,8 @@
             Console.Write("PROGRAMACION II");
             */
 
-            saludar();
+            //saludar();
+            metodosFunciones.saludar();
             Console.WriteLine("Por favor dinos tu nombre");
             string nombre = Console.ReadLine();
             Console.WriteLine("Bienvenido " +  nombre);
@@ -29,10 +32,11 @@
             suma = a + b;
             Console.WriteLine("el resultado es " + suma);
             */
-            Console.WriteLine("La suma es " + sumar(a, b));
-            Console.WriteLine("La resta es " + resta(a, b));
-            Console.WriteLine("La multiplicacion es " + multiplicacion(a, b));
-            Console.WriteLine("La division es " + division(a, b));
+            Console.WriteLine("La suma es " + metodosFunciones.Suma(a, b));
+            Console.WriteLine("La resta es " + metodosFunciones.Resta(a, b));
+            Console.WriteLine("La multiplicacion es " + metodosFunciones.Multiplicacion(a, b));
+            Console.WriteLine("La division es " + metodosFunciones.Division(a, b));
+            Console.WriteLine("El residuo es " + metodosFunciones.Residuo(a, b));
             /*
              * Metodos
              */
