@@ -1,0 +1,15 @@
+C:\unicen\ProgramacionIIA\ProgramacionII-A\programacion2\bin\Debug\net6.0\programacion2.exe
+C:\unicen\ProgramacionIIA\ProgramacionII-A\programacion2\bin\Debug\net6.0\programacion2.deps.json
+C:\unicen\ProgramacionIIA\ProgramacionII-A\programacion2\bin\Debug\net6.0\programacion2.runtimeconfig.json
+C:\unicen\ProgramacionIIA\ProgramacionII-A\programacion2\bin\Debug\net6.0\programacion2.dll
+C:\unicen\ProgramacionIIA\ProgramacionII-A\programacion2\bin\Debug\net6.0\programacion2.pdb
+C:\unicen\ProgramacionIIA\ProgramacionII-A\programacion2\obj\Debug\net6.0\programacion2.csproj.AssemblyReference.cache
+C:\unicen\ProgramacionIIA\ProgramacionII-A\programacion2\obj\Debug\net6.0\programacion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\unicen\ProgramacionIIA\ProgramacionII-A\programacion2\obj\Debug\net6.0\programacion2.AssemblyInfoInputs.cache
+C:\unicen\ProgramacionIIA\ProgramacionII-A\programacion2\obj\Debug\net6.0\programacion2.AssemblyInfo.cs
+C:\unicen\ProgramacionIIA\ProgramacionII-A\programacion2\obj\Debug\net6.0\programacion2.csproj.CoreCompileInputs.cache
+C:\unicen\ProgramacionIIA\ProgramacionII-A\programacion2\obj\Debug\net6.0\programacion2.dll
+C:\unicen\ProgramacionIIA\ProgramacionII-A\programacion2\obj\Debug\net6.0\refint\programacion2.dll
+C:\unicen\ProgramacionIIA\ProgramacionII-A\programacion2\obj\Debug\net6.0\programacion2.pdb
+C:\unicen\ProgramacionIIA\ProgramacionII-A\programacion2\obj\Debug\net6.0\programacion2.genruntimeconfig.cache
+C:\unicen\ProgramacionIIA\ProgramacionII-A\programacion2\obj\Debug\net6.0\ref\programacion2.dll
