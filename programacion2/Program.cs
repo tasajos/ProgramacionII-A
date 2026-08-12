@@ -7,15 +7,7 @@ namespace programacion2
         static void Main(string[] args)
         {
 
-            /*
-
-            Console.WriteLine("UNICEN");
-            Console.WriteLine("UNICEN bienvenidos al nuevo mundo");
-            Console.Write("PROGRAMACION II");
-            */
-
-            //saludar();
-            metodosFunciones.saludar();
+            funcionesMetodos.SALUDAR2();
             Console.WriteLine("Por favor dinos tu nombre");
             string nombre = Console.ReadLine();
             Console.WriteLine("Bienvenido " +  nombre);
@@ -32,42 +24,9 @@ namespace programacion2
             suma = a + b;
             Console.WriteLine("el resultado es " + suma);
             */
-            Console.WriteLine("La suma es " + metodosFunciones.Suma(a, b));
-            Console.WriteLine("La resta es " + metodosFunciones.Resta(a, b));
-            Console.WriteLine("La multiplicacion es " + metodosFunciones.Multiplicacion(a, b));
-            Console.WriteLine("La division es " + metodosFunciones.Division(a, b));
-            Console.WriteLine("El residuo es " + metodosFunciones.Residuo(a, b));
-            /*
-             * Metodos
-             */
-            static void saludar()
-            {
-                Console.WriteLine("UNICEN bienvenidos al nuevo mundo este es un metodo");
-                Console.WriteLine("PROGRAMACION II - rules");
-            }
-            /*
-             * Funciones
-             */
-            static  double sumar(double a , double b)
-            {
-                return (a + b);
-            }
-
-            static double resta(double a, double b)
-            {
-                return (a - b);
-            }
-
-            static double multiplicacion(double a, double b)
-            {
-                return (a - b);
-            }
-
-            static double division(double a, double b)
-            {
-                return (a / b);
-            }
-
+            Console.WriteLine("La suma es " + funcionesMetodos.sumarf(a,b));
+            Console.WriteLine("La multiplicacion es " + funcionesMetodos.multiplicacionf(a,b));
+            Console.WriteLine("La resta es " + funcionesMetodos.restarf(a, b));
         }
     }
 }
